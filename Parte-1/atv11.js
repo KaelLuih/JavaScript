@@ -1,4 +1,3 @@
-const input = require('prompt-sync')();
 
  var numero= parseFloat(input('Digite um numero: '));
 
